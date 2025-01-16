@@ -1,5 +1,3 @@
-# Brandon Lee ubx-data-analysis
+# UBX World Project
 
-Here is all the projects that I had worked on during my internship with UBX World!
-
-All of the Python Scripts will be in the UBX World Folder, while the other files are R programmming scripts that were initialized used, then converted into Python
+I joined UBX World as a data science intern. Together with Dan Blike, my boss, we collaborated and brainstormed ideas for exploratory research towards a new badminton rating system.
