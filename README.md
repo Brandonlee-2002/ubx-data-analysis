@@ -5,5 +5,5 @@ I joined UBX World as a data science intern. Together with Dan Blike, my former 
 
 Here is the folder that showcases my work:
 
-[Data Analysis Showcase](https://github.com/Brandonlee-2002/ubx-data-analysis/tree/2c59300ba75dd5039afa1b5bb3fac2b6f4ab7dd6/UBX_World)
+## [Data Analysis Showcase](https://github.com/Brandonlee-2002/ubx-data-analysis/tree/2c59300ba75dd5039afa1b5bb3fac2b6f4ab7dd6/UBX_World)
 
